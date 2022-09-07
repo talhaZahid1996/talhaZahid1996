@@ -1,19 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-- 👋 Hi, I’m @talhaZahid1996
-- 👀 I’m interested in android development
-- 🌱 I’m currently working on kotlin and some part time projects on Shopify and WordPress.
-- 📫 How to reach me: talha.zahid28@gmail.com
 
-<!---
-talhaZahid1996/talhaZahid1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
---->
+### :man_technologist: About Me :
 
+I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+
+- :telescope: I’m working as a Software Engineer and developing Android apps in both JAVA and Kotlin.
+- :zap: I’m currently working on kotlin and some part time projects on Shopify and WordPress..
+- :mailbox:How to reach me: talha.zahid28@gmail.com
+
+---
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/talha-zahid-007954168/)">
+  <a href="https://www.linkedin.com/in/talha-zahid-007954168/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -28,20 +27,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
-
----
-
-### :man_technologist: About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
