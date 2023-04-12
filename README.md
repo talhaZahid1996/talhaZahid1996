@@ -14,7 +14,7 @@
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 - :telescope: I’m working as a Software Engineer and developing Android apps in both JAVA and Kotlin.
-- :zap: I’m currently working on kotlin and some part time projects on Shopify and WordPress..
+- :zap: I’m currently working on native Android Development with Kotlin, Compose, MVVM, Hilt. And some part time projects on Shopify and WordPress..
 - :mailbox:How to reach me: talha.zahid28@gmail.com
 <div id="badges">
   <a href="https://www.linkedin.com/in/talha-zahid-007954168/">
