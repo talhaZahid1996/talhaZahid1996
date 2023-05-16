@@ -43,6 +43,3 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=talhaZahid1996&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
